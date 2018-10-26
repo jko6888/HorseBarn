@@ -18,4 +18,5 @@ public class NeighNeigh implements Horse {
     public int getWeight () {
         return this.weight;
     }
+    public String getHorse () {return "NeighNeigh";}
 }
